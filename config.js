@@ -14,5 +14,5 @@ const CONFIG = {
     reply: 'yêu anh nhìu lắm luôn <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
    
-    messLink: 'https://www.facebook.com/profile.php?id=100016641226503' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100016641226503'w //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
